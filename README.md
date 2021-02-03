@@ -1,11 +1,10 @@
-<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Kendall Johnston</a></b></samp></h3>
+<h3 align="center"><samp>Hello, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Kendall Johnston</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     B.S. in Computer Science at <b>Towson University</b>
     <br>
   </samp>
 </p>
-<br>
 <samp>
   <p align="center">
     ═══════<br>
