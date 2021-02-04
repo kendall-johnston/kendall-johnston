@@ -1,7 +1,7 @@
 <h3 align="center"><samp>Hello, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="">Kendall Johnston</a></b></samp></h3>
 <p align="center">
-  ═══════<br>
   <samp>
+    ═══════<br>
     B.S. in Computer Science at <b>Towson University</b>
     <br>
   </samp>
